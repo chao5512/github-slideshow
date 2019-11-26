@@ -17,9 +17,9 @@ plugins:
   - jemoji
 
 ## personalize your slide show
-title:       github-slideshow
-author:      GitHubTeacher
-description: A fun activity for learning Git and GitHub.
+title:       a blog
+author:      chao
+description: A fun activity for learning Git and GitHub for me.
 
 sass:
   style:     :compressed
@@ -27,7 +27,7 @@ sass:
 ## solarized variant (dark/light)
 solarized:
   theme:     dark
-
+  theme: minima
 slideNumber:
   # Slide number formatting can be configured using these variables:
   #  "h.v":  horizontal . vertical slide number (default)
