@@ -27,7 +27,7 @@ sass:
 ## solarized variant (dark/light)
 solarized:
   theme:     dark
-  theme: minima
+  theme:     minima
 slideNumber:
   # Slide number formatting can be configured using these variables:
   #  "h.v":  horizontal . vertical slide number (default)
